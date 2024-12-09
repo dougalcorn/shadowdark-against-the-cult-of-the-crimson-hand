@@ -1,0 +1,40 @@
+{
+  "id": "shadowdark-against-the-cult-of-the-crimson-hand",
+  "title": "Shadowdark - Against the Cult of the Crimson Hand",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "shadowdark",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "\"Against the Cult of the Crimson Hand\" is a one-shot adventure for 1st - 2nd level characters with optional rules for a less lethal new player experience. Written by William Harshman",
+  "authors": [
+    {
+      "name": "William Harshman",
+      "url": "https://www.youtube.com/@RuneforgedTabletopGaming",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "against-the-cult-of-the-crimson-hand",
+      "label": "Against the Cult of the Crimson Hand",
+      "path": "packs/against-the-cult-of-the-crimson-hand",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "shadowdark",
+      "flags": {}
+    }
+  ]
+}
