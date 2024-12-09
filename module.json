@@ -29,12 +29,12 @@
       "label": "Against the Cult of the Crimson Hand",
       "path": "packs/against-the-cult-of-the-crimson-hand",
       "type": "Adventure",
+      "system": "shadowdark",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "shadowdark",
-      "flags": {}
+      }
     }
-  ]
+  ],
+  "url": "https://github.com/dougalcorn/shadowdark-against-the-cult-of-the-crimson-hand/"
 }
